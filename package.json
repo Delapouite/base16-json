@@ -1,0 +1,25 @@
+{
+  "name": "base16-json",
+  "version": "1.0.0",
+  "description": "Base16 themes as JSON",
+  "main": "base16.json",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Delapouite/base16-json.git"
+  },
+  "keywords": [
+    "base16"
+  ],
+  "author": "Delapouite <delapouite@gmail.com> (http://delapouite.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Delapouite/base16-json/issues"
+  },
+  "homepage": "https://github.com/Delapouite/base16-json#readme",
+  "dependencies": {
+    "base16": "^1.0.0"
+  }
+}
